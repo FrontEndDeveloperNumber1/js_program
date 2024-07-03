@@ -18,3 +18,12 @@ console.log(booleanIsLoggedIn);
 // 1 => true; 0 => false
 // "" => false
 // "jignesh" => true
+
+// ******** Operations ************//
+
+let value = 3
+let negValue =  -value
+// console.log(negValue);
+
+// link to study => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+
