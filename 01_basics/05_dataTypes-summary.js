@@ -32,3 +32,24 @@ const myFunction = function(){
 }
 
 console.log(typeof bigNumber)
+
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+// let myYbname = Ecleva;
+myYbname = "jigneshthedeveloper"
+
+console.log(myYbname);
+
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user#ecleva"
+}
+
+let usertwo = userOne
+
+usertwo.email = "user01@google.com"
+
+console.log(userOne.email);
+console.log(usertwo.email);
